@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary text color for light mode -->
+    <color name="textColorPrimary">#F6000000</color> <!-- Black text -->
+    <color name="textColorSecondary">#BE000000</color>
+
+   <color name="btnPrimaryColor">#FFF</color>
+    <color name="iconCameraColor">#000</color>
+
+    <color name="statusbarColor">#F44336</color>
+
+    <color name="devName">#3D240C</color>
+    <color name="white">#FFF</color>
+    <color name="red">#FF0000</color>
+
+</resources>

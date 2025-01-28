@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57034149567",
+    "project_id": "chillchat-1567f",
+    "storage_bucket": "chillchat-1567f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57034149567:android:62cc4efcf9099839e7800a",
+        "android_client_info": {
+          "package_name": "com.example.chillchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWcIWM9CQCJHIoTgQGjm2vdOCWyGxV4F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

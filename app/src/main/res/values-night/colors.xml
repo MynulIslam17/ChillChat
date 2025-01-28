@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary text color for dark mode -->
+    <color name="textColorPrimary">#001F3F</color> <!-- White text -->
+    <color name="textColorSecondary">#aaa</color>
+    <color name="btnPrimaryColor">#aaa</color>
+
+    <color name="iconCameraColor">#FFF</color>
+
+    <color name="statusbarColor">#FFEB3B</color>
+
+    <color name="devName">#3D240C</color>
+    <color name="red">#F44336</color>
+
+</resources>
